@@ -1,0 +1,16 @@
+img.profile {
+	margin: 2em;
+}
+
+
+h3.profile {
+	font-family: "Roboto Slab", serif;
+	font-size: 2.4em;
+ 	margin: 1em 1.5em .25em;
+}
+
+p.profile {
+	font-family: "Open Sans", sans-serif;
+	font-size: 1.2em;
+	margin: 1em 3em;
+}
